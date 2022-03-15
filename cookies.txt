@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+jpg2pdf.com	TRUE	/	FALSE	1999999999	mojolicious	eyJjb3VudGVyIjoxNSwiZXhwaXJhdGlvbiI6MzE1MzYwMDAsImV4cGlyZXMiOjE2Nzg4ODQyNzB9--5ed67a8b0f04c910fab3599f05188ed37e839a10
+jpg2pdf.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
